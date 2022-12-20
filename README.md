@@ -12,6 +12,6 @@ https://s3.eu-central-1.amazonaws.com/fashion-gan/images.zip
 
 
 
-Sneh Singh 
-Vanama Yaswanth
-Vidhi Mathur
+Sneh Singh  ,
+Vanama Yaswanth ,
+Vidhi Mathur  .
